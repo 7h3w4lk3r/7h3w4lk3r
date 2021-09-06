@@ -1,4 +1,3 @@
-# Who Am I ?  
 
 <img src=https://github.com/7h3w4lk3r/7h3w4lk3r/blob/main/1.gif align='left' width='250' height='430'>  
 
@@ -11,6 +10,7 @@
 . Low-level Programming ( kinda )  
 . Sharing Knowledge  
 . Headbanging  
+. Learning  
 
 # Website  
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://7h3w4lk3r.gitbook.io/the-hive)
