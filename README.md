@@ -8,7 +8,7 @@
 # What Do I Do ?  
 . Network & Wireless Pentesting  
 . Messing with AD security  
-. Malware coding (JFF)
+. Malware coding (JFF)  
 . Low-level Programming ( kinda )  
 . Sharing Knowledge  
 . Headbanging  
