@@ -5,14 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3w4lk3r&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-# What Do I Do ?  
-. Network & Wireless Pentesting  
-. Messing with AD security  
-. Malware coding (JFF)  
-. Low-level Programming ( kinda )  
-. Sharing Knowledge  
-. Headbanging  
-. Learning (FULL TIME)  
 
 # Website  
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://7h3w4lk3r.gitbook.io/the-hive)
