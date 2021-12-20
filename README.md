@@ -6,7 +6,7 @@
 
 
 
-# Website (private)  
+# Website  
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://7h3w4lk3r.gitbook.io/the-hive)
 
 
