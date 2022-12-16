@@ -5,13 +5,10 @@
 
 
 
-
-
   # Website  
   [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://7h3w4lk3r.gitbook.io/hive/)
 
 
 
   # Contact  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TH3W4LK3R)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bl4ckr4z3r@gmail.com)
