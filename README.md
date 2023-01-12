@@ -1,8 +1,8 @@
 
 <img src=https://github.com/7h3w4lk3r/7h3w4lk3r/blob/main/1.gif align='left' width='250' height='430'>  
 
-![stats](https://github-readme-stats.vercel.app/api?username=7h3w4lk3r&show_icons=true&theme=dark)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7h3w4lk3r)](https://github.com/anuraghazra/github-readme-stats)
 
 
   # Website  
