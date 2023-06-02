@@ -1,5 +1,5 @@
 # 💫 About Me:
-Offensive security nerd, mostly interested in network & infrastructure penetration testing, red teaming, defense evasion and reverse engineering.
+Offensive security nerd, interested in red teaming, defense evasion and reverse engineering.
  
 
 # 🌐 Socials:
