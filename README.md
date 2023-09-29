@@ -10,10 +10,9 @@ Offensive security nerd, interested in red teaming, defense evasion and reverse 
 <img src=https://github.com/7h3w4lk3r/7h3w4lk3r/blob/main/1.gif align='left' width='300' height='640'> 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=7h3w4lk3r&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7h3w4lk3r&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3w4lk3r&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7h3w4lk3r&theme=synthwave)](https://github.com/7h3w4lk3r/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=7h3w4lk3r&theme=radical&no-frame=false&no-bg=false&margin-w=4)
