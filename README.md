@@ -1,4 +1,4 @@
-## ℹ️ About Me:
+## About Me:
 Offensive security nerd, interested in red teaming, defense evasion and reverse engineering.
  
 
