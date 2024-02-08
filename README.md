@@ -1,5 +1,5 @@
 ## About Me:
-Offensive security researcher, interested in red teaming, defense evasion, malware development and all things binary.
+Offensive security researcher, interested in red teaming, defense evasion, malware development and reverse engineering.
  
 
 ## 🌐 Socials:
