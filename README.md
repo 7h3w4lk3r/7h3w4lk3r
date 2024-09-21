@@ -1,3 +1,4 @@
+# :~ root# whoami
 Offensive security researcher, interested in red teaming, defense evasion, malware development and reverse engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-s-929ab5255)
