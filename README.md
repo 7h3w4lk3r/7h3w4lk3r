@@ -17,7 +17,7 @@ Offensive security researcher interested in **red teaming, defense evasion, malw
   <a href="https://hive.w4lk3r.net">
     <img src="https://img.shields.io/badge/HIVE-0b0b14?style=for-the-badge&logo=probot&logoColor=00f0ff&labelColor=0b0b14"/>
   </a>
-  <a href="https://www.w4lk3r.net">
+  <a href="https://w4lk3r.net">
     <img src="https://img.shields.io/badge/BLOG-0b0b14?style=for-the-badge&logo=gitbook&logoColor=ff00aa&labelColor=0b0b14"/>
   </a>
 </p>
